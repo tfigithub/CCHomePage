@@ -46,15 +46,15 @@
 					</div><!--- END COL -->
 					<div class="col-md-6 wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.5s">
 						<div class="header_contact pull-right">
-							<ul>
+							<ul>&nbsp;
 								<!-- <li> Team</li>
 								<li> Community</li>
 								<li> Support</li>
 								<li> Training</li>
-								<li> Careers</li> -->
+								<li> Careers</li>
 								<li style="background: #000;">
 									<a href="#myModal" data-toggle="modal" style="text-decoration: none; color: #fff;">LOGIN</a>
-								</li>
+								</li>-->
 							</ul>
 						</div>
 					</div><!--- END COL -->
@@ -101,8 +101,9 @@
                      <ul class="nav navbar-nav navbar-right">
 						<!-- <li><a href="index-2.html">Home</a></li> -->
                         <li><a href="#whyclinicalcliq"> Why ClinicalCliq?</a></li>
-                        <li><a href="#solutions">Solutions</a></li>
-                        <li><a href="#supports">Support</a></li>
+                        <li><a href="#solutions">ClinicalCliq Overview</a></li>
+                        <li><a href="#supports">ClinicalCliq Support</a></li>
+                        <li style="background: #000;"><a href="#myModal" data-toggle="modal" style="text-decoration: none; color: #fff;">LOGIN</a></li>
                     </ul>
                 </div> 
             </div><!--- END CONTAINER -->
@@ -133,3 +134,4 @@ Proven in over 3,000 clinical studies ClinicalCliq provides:<a href="#" class="b
 		</section>
 </body>
 </html>
+
