@@ -25,10 +25,10 @@
 							<div class="single_why">
 
 								<p style="font-size:19px;"><i class="fa fa-circle" style="color:#c80002; font-size:11px;"></i>&nbsp;&nbsp;<span style="text-decoration:underline;">Power to the User</span> &ndash; Intuitive design for a myriad of user roles and privileges for a clinical research project.  Tailored landing page and dashboard metrics presentation to the user upon log-in.</p>
-								<p style="font-size:19px;"><i class="fa fa-circle" style="color:#c80002; font-size:11px;"></i>&nbsp;&nbsp;<span style="text-decoration:underline;">Power to Forms</span> &ndash; Dynamic <span style="text-decoration:underline;">21 CFR Part 11 compliant</span> case report form (CRF) creation module for design, editing with validation rules, <span style="text-decoration:underline;">including a complete audit trail.</span>  Web-based multi-site electronic data capture (EDC) with patient survey system.</p>
+								<p style="font-size:19px;"><i class="fa fa-circle" style="color:#c80002; font-size:11px;"></i>&nbsp;&nbsp;<span style="text-decoration:underline;">Power to Forms</span> &ndash; Dynamic 21 CFR Part 11 compliant</span> case report form (CRF) creation module for design, editing with validation rules, including a complete audit trail. Web-based multi-site electronic data capture (EDC) with patient survey system.</p>
 								<p style="font-size:19px;"><i class="fa fa-circle" style="color:#c80002; font-size:11px;"></i>&nbsp;&nbsp;<span style="text-decoration:underline;">Bio-specimen Management</span> &ndash; Integrated bio-specimen tracking module capable of tracking and reporting the movement of bio-samples throughout a study ecosystem from collection to analysis and storage.</p>
 								<p style="font-size:19px;"><i class="fa fa-circle" style="color:#c80002; font-size:11px;"></i>&nbsp;&nbsp;<span style="text-decoration:underline;">Regulatory Document Management</span> &ndash; A regulatory &ldquo;e-Binder&rdquo; module is available to maintain documents and adverse experiences linked to patient and protocol for IRB and FDA submission and approval.</p>
-								<p style="font-size:19px;"><i class="fa fa-circle" style="color:#c80002; font-size:11px;"></i>&nbsp;&nbsp;<span style="text-decoration:underline;">Integrated Query and Reporting</span> &ndash; Run searches, query forms data and generate reports for a study at different stages (i.e., Completed, Audited, and Incomplete) with open source web-reporting tools for analytical and dynamic reporting.  Query extensibility through R tool integration to run online statistical reports. <span style="text-decoration:underline;">ClinicalCliq provides a complete <i>clinical monitoring</i> environment for quality assurance audits, complete with e-mail notification and resolution management tools.</span></p>
+								<p style="font-size:19px;"><i class="fa fa-circle" style="color:#c80002; font-size:11px;"></i>&nbsp;&nbsp;<span style="text-decoration:underline;">Integrated Query and Reporting</span> &ndash; Run searches, query forms data and generate reports for a study at different stages (i.e., Completed, Audited, and Incomplete) with open source web-reporting tools for analytical and dynamic reporting.  Query extensibility through R tool integration to run online statistical reports. ClinicalCliq provides a complete <span style="text-decoration:underline;">clinical monitoring</span> environment for quality assurance audits, complete with e-mail notification and resolution management tools.</p>
 								
 							</div>
 						</div><!--- END COL -->
@@ -55,7 +55,7 @@
 								<p style="font-size:19px;">Technical Frontiers, Inc. (TFI) supported CTK, later called the Clinical Trial Database (CTDB), providing IT, data management and system enhancement along with technical assistance for Principal Investigators (PIs) and NIH staff.  We at TFI gained tremendous subject matter expertise during this time and contributed to the growth of CTDB and the significant body of knowledge and special expertise of the form and metadata libraries which, to date, have amassed over 90,000 research questions.</p>
 								<p style="font-size:19px;">With the blessings of NIH, TFI has improved the data access, security and collaboration by calibrating services to an optimal base set of features and re-branded the platform into ClinicalCliq.</p>
 								<p style="font-size:19px;">ClinicalCliq has a history of success at NIH and the extramural community &ldquo;is finding this an important tool for support of clinical research efforts, particularly as it relates to the integration of &ldquo;-omic&rdquo; data, in support of emerging personalized medicine initiatives.&rdquo; &ndash; NICHD</p>
-								<p style="font-size:19px;">&ldquo;This web-based application allows investigators to organize clinical research projects and collect patient data.  The 21CFR Part 11 platform addresses the entire clinical research process.&rdquo; &ndash; BADER Consortium, University of Delaware.</p>
+								<p style="font-size:19px;">&ldquo;This web-based application allows investigators to organize clinical research projects and collect patient data.  The 21 CFR Part 11 platform addresses the entire clinical research process.&rdquo; &ndash; BADER Consortium, University of Delaware.</p>
 								<p style="font-size:19px;">ClinicalCliq &rdquo;is well developed and contains all of the elements needed for the efficient conduct of clinical research.&rdquo; &ndash; Duke University, Translational Medicine Institute.</p>
 							
 							
@@ -157,11 +157,21 @@
 				                        	<textarea name="form-about-yourself" placeholder="Areas of interest :  Let us know what you&rsquo;d like to hear from us when we follow up." 
 				                        				class="form-about-yourself form-control" id="form-about-yourself"></textarea>
 				                        </div>
+				                        <div class="form-group">
+				                        	<label class="sr-only" for="form-email">Choose Options.</label>
+				                        	<select name="options" class="form-email form-control" id="form-email">
+				                        		<option>Choose Options.</option>
+				                        		<option> I would like TFI to contact me to discuss ClinicalCliq further.</option>
+				                        		<option> I would like a web conference demo of ClinicalCliq.</option>
+				                        		<option> I would like a login and password for the ClinicalCliq &ldquo;sandbox&rdquo; environment.</option>
+				                        	
+				                        	</select>
+				                        </div>
 				                         <div class="form-group">
 				                       
 				                        	 
 				                        </div>
-				                        <button type="submit" class="btn">Submit</button>
+				                        <button type="submit" class="register" style="font-size: 23px; padding: 13px 20px;">Submit</button>
 				                    </form>
 			                    </div>
                         	</div>
