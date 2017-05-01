@@ -14,8 +14,8 @@
 							<p style="font-size:19px; font-family:'Slabo 27px', serif;">In business since 1996, TFI is an experienced Small Disadvantaged Business (SDB) healthcare management and IT consulting company. Our strengths are derived by uniting true health domain expertise and health IT competencies to help our customers collect, review, validate and analyze health data. TFI's services and solutions help our clients collect and manage health information, analyze and verify Medicare claim payment accuracy, store and process clinical research data – all in secure on premise or cloud-hosted environments</p>
 							<div class="footer_contact">
 								<ul>
-									<li style="font-size:19px; font-family:'Slabo 27px', serif;"><i class="fa fa-phone"></i> Call Us -  (+1) 301 785 5280</li>
-									<li style="font-size:19px; font-family:'Slabo 27px', serif;"><i class="fa fa-envelope"></i> info@ClinicalCliq.com</li>
+									<li style="font-size:19px; font-family:'Slabo 27px', serif;"><i class="fa fa-phone"></i> Call Us -  (+1) 703 915-1300</li>
+									<li style="font-size:19px; font-family:'Slabo 27px', serif;"><i class="fa fa-envelope"></i> ClinicalCliq@TechnicalFrontiers.com</li>
 									<li style="font-size:19px; font-family:'Slabo 27px', serif;"><i class="fa fa-rocket"></i> 3104 Lord Baltimore Dr, Baltimore, MD 21244</li>
 								</ul>
 							</div>
